@@ -1,0 +1,6 @@
+[submodule "py_utils"]
+	path = py_utils
+	url = https://github.com/A13ssi0/py_utils.git
+[submodule "riemann_utils"]
+	path = riemann_utils
+	url = https://github.com/A13ssi0/riemann_utils.git
